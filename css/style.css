@@ -177,8 +177,7 @@ ul {
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    min-height: 152px;
-   
+    min-height: 152px;  
 }
 
 .content__block2 {
@@ -222,7 +221,6 @@ h1 {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    /*margin-top: 24px;*/
     margin-left: 16px;
     margin-right: 16px;
 }
@@ -256,7 +254,6 @@ h1 {
     display: inline;
     margin-right: 5px;
     line-height: 24px;
-    /* identical to box height, or 150% */
     letter-spacing: -0.2px;
 }
 
@@ -298,7 +295,6 @@ p {
     font-family: 'TT Lakes';
     font-size: 14px;
     line-height: 18px;
-    /* or 129% */
     letter-spacing: 0.2px;
     color: #1B1C21;
     flex-grow: 2;
@@ -321,8 +317,7 @@ p {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    flex-grow: 1;
-    
+    flex-grow: 1;  
 }
 
 .main__text_read_pic {
@@ -341,7 +336,6 @@ p {
     font-family: 'TT Lakes';
     font-size: 16px;
     line-height: 24px;
-    /* identical to box height, or 150% */
     letter-spacing: -0.2px;
     color: #1B1C21;
     margin-left: 16px;
@@ -353,8 +347,7 @@ p {
     flex-grow: 1;
     min-width: 320px;
     min-height: 176px;
-    margin-bottom: 27.38px;
-    
+    margin-bottom: 27.38px;   
 }
 
 @media (min-width: 320px) {
@@ -442,8 +435,7 @@ p {
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content: space-between;
-    align-items: flex-start;
-    
+    align-items: flex-start;   
 }
 
 .main__text_read {
@@ -508,13 +500,11 @@ p {
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content: flex-end;
-    align-items: center;
-    
+    align-items: center;    
 }
 
 .main__title {
-    min-width: 1120px;
-    
+    min-width: 1120px;   
 }
 
 .main__title_text {
